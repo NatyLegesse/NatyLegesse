@@ -1,5 +1,5 @@
 👋 Hi, I’m Natnael Genore
-💻 Passionate about programming — especially high-level languages, with Java as my primary focus.
+💻 Passionate about programming — especially high-level languages, with Java and python as my primary focus.
 🎓 Educational background:
 BEng in Computer Science (Engineering)
 Four years of study in Electro-Mechanical Engineering

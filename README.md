@@ -1,36 +1,40 @@
-Natnael Genore
-Software Engineer | Support Engineer
+# Natnael Genore
 
-I am a software engineer with a strong focus on Java and Python, building reliable and efficient software solutions. I enjoy solving technical problems, improving system performance, and working across both development and support environments.
+**Software Engineer | Support Engineer**
 
-Education
+I am a software engineer with a strong focus on **Java** and **Python**, building reliable and efficient software solutions. I enjoy solving technical problems, improving system performance, and working across both development and support environments.
 
-BEng in Computer Science (Engineering)
-Four years of study in Electro-Mechanical Engineering
+---
 
-Technical Skills
+## Education
 
-Programming: Java, Python
-Software Development: OOP, API development, automation scripting
-Databases: SQL, SQLite
-Tools: Git, GitHub, Linux basics
-Problem Solving, Debugging, and System Analysis
+* BEng in Computer Science (Engineering)
+* Four years of study in Electro-Mechanical Engineering
 
-Support Engineer Skills
+---
 
-Application and system troubleshooting
-Incident analysis and resolution
-User and technical support
-Monitoring and escalation handling
-Basic network and system diagnostics
-Collaboration between users and development teams
+## Technical Skills
 
-Contact
-Email: natylegesse1812@gmail.com
+* Programming: Java, Python
+* Software Development: Object-Oriented Programming (OOP), API development, automation scripting
+* Databases: SQL, SQLite
+* Tools: Git, GitHub, Linux basics
+* Problem Solving, Debugging, System Analysis
 
-GitHub: (add your profile link)
+---
 
-<!---
-NatyLegesse/NatyLegesse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Support Engineer Skills
+
+* Application and system troubleshooting
+* Incident analysis and resolution
+* User and technical support
+* Monitoring and escalation handling
+* Basic network and system diagnostics
+* Collaboration between users and development teams
+
+---
+
+## Contact
+
+* Email: [natylegesse1812@gmail.com](mailto:natylegesse1812@gmail.com)
+* GitHub: (add your GitHub profile link here)
